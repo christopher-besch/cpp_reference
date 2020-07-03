@@ -1,8 +1,6 @@
-[002_hello_world                         ](002_hello_world/HelloWorld/HelloWorld/Main.cpp)
+[005_hello_world_explained               ](005_hello_world_explained/HelloWorld/HelloWorld)
 
-[005_hello_world_explained               ](005_hello_world_explained/HelloWorld/HelloWorld/Main.cpp)
-
-[006_compiler                            ](006_compiler/HelloWorld/HelloWorld/Main.cpp)
+[006_compiler                            ](006_compiler/HelloWorld/HelloWorld)
 
 [007_linker                              ](007_linker/HelloWorld/HelloWorld)
 
