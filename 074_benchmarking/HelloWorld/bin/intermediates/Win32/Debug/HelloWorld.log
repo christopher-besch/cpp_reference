@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(61,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+  HelloWorld.vcxproj -> C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\bin\Win32\Debug\HelloWorld.exe

@@ -1,0 +1,2 @@
+C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\Game\Debug\Engine.pdb
+C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\Game\Engine\Debug\Engine.pdb

@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(11,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(26): message : see reference to function template instantiation 'void PrintArray<5>(const std::array<int,5> &)' being compiled
+  HelloWorld.vcxproj -> C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\bin\Win32\Debug\HelloWorld.exe

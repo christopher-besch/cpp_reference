@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\HelloWorld\HelloWorld\Main.cpp(5,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HelloWorld.vcxproj -> C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\HelloWorld\Debug\HelloWorld.exe

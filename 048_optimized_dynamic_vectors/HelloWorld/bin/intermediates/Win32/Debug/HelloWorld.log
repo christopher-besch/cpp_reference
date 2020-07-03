@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xmemory(671,103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(682): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int,int>(_Alloc &,_Objty *const ,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Vertex>,
+              _Ty=Vertex,
+              _Objty=Vertex
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(687): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int,int>(_Alloc &,_Objty *const ,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Vertex>,
+              _Ty=Vertex,
+              _Objty=Vertex
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(700): message : see reference to function template instantiation 'void std::vector<Vertex,std::allocator<Vertex>>::_Emplace_back_with_unused_capacity<_Ty,_Ty,_Ty>(_Ty &&,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\HelloWorld\HelloWorld\src\Main.cpp(34): message : see reference to function template instantiation 'void std::vector<Vertex,std::allocator<Vertex>>::emplace_back<int,int,int>(int &&,int &&,int &&)' being compiled
+  HelloWorld.vcxproj -> C:\Users\Stromel\Data\C++_tutorial\c++_tutorial\HelloWorld\bin\Win32\Debug\HelloWorld.exe

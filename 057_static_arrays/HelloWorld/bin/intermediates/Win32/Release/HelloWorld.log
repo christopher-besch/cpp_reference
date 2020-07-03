@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(8,27): error C3533: a parameter cannot have a type that contains 'auto'
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(25,17): error C2664: 'void PrintArray(unknown-type)': cannot convert argument 1 from 'std::array<int,5>' to 'unknown-type'
+C:\Users\Stromel\Data\C++_tutorial\c-_tutorial\HelloWorld\HelloWorld\src\Main.cpp(8,6): message : see declaration of 'PrintArray'
