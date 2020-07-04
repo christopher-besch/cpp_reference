@@ -1,4 +1,4 @@
-One folder for (almost) each video from [The great C++ series from The Charno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+One folder for (almost) each video from [the great C++ series from The Charno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 Each folder contains a VS solution with the example code used and everything explained with comments.
 
