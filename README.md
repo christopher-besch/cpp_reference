@@ -1,3 +1,9 @@
+One folder for (almost) each video from [The great C++ series from The Charno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+Each folder contains a VS solution with the example code used and everything explained with comments.
+
+This repo is supposed to be used as a reference if you need something you know exists in the C++ series. -> You don't have to watch the whole video again.
+
 [005_hello_world_explained               ](005_hello_world_explained/HelloWorld/HelloWorld)
 
 [006_compiler                            ](006_compiler/HelloWorld/HelloWorld)
@@ -155,3 +161,5 @@
 [088_argument_evaluation_order           ](088_argument_evaluation_order/HelloWorld/HelloWorld/src/Main.cpp)
 
 [089_move_semantics                      ](089_move_semantics/HelloWorld/HelloWorld/src/Main.cpp)
+
+[090_std_move_move_assignment_operator   ](090_std_move_move_assignment_operator/HelloWorld/HelloWorld/src/Main.cpp)
