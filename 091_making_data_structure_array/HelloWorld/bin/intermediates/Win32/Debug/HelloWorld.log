@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Stromel\Desktop\cpp_reference\091_making_data_structure_array\HelloWorld\HelloWorld\src\Main.cpp(52,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Stromel\Desktop\cpp_reference\091_making_data_structure_array\HelloWorld\HelloWorld\src\Main.cpp(53,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Stromel\Desktop\cpp_reference\091_making_data_structure_array\HelloWorld\HelloWorld\src\Main.cpp(46,6): warning C4101: 'array': unreferenced local variable
+  HelloWorld.vcxproj -> C:\Users\Stromel\Desktop\cpp_reference\091_making_data_structure_array\HelloWorld\bin\Win32\Debug\HelloWorld.exe

@@ -165,3 +165,5 @@ This repo is supposed to be used as a reference if you need something you know e
 [089_move_semantics                      ](089_move_semantics/HelloWorld/HelloWorld/src/Main.cpp)
 
 [090_std_move_move_assignment_operator   ](090_std_move_move_assignment_operator/HelloWorld/HelloWorld/src/Main.cpp)
+
+[091_making_data_structure_array         ](091_making_data_structure_array/HelloWorld/HelloWorld/src/Main.cpp)
