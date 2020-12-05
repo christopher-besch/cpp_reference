@@ -8,7 +8,7 @@ class Entity
 public:
 	float X, Y;
 
-	// constructor = special method method
+	// constructor = special method
 	Entity()
 	{
 		X = 0.0f;
