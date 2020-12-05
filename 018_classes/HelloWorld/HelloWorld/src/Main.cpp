@@ -3,7 +3,7 @@
 #define LOG(msg) std::cout << msg <<std::endl
 
 
-// object
+// class
 class Player
 {
 public:
