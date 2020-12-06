@@ -63,7 +63,7 @@ int main()
 }
 
 /*
- *there are different types types of memory: stack and heap (there are more, like the play the source code lives)
+ *there are different types types of memory: stack and heap (there are more, like the place the source code lives)
  *stack:
  *	automatic life time (variable out of scope -> variable dies (stack pops))
  *	should be used unless impossible -> fastest way
