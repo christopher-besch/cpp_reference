@@ -57,7 +57,7 @@ int main()
  *new allocates space on the heap
  *new takes time
  *new doesn't just allocate memory, it also calls the constructor
- *new is just an operator and therefor can be overloaded
+ *new is just an operator and therefore can be overloaded
  *new usually calls the c function malloc, which returns a pointer to memory of a specific size ->
  *Entity* e = new Entity(); does pretty much the same as Entity* e = (Entity*)malloc(sizeof(Entity));
  *
