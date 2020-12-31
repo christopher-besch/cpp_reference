@@ -19,7 +19,7 @@ declaration:
 #pragma once:
 	only include this file once
 	header guard
-	prevents problems e.g. with structs
+	prevents problems double definitions of symbols e.g. functions
 	legacy version:
 		#ifndef _LOG_H
 		#define _LOG_H
