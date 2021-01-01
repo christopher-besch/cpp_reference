@@ -19,7 +19,7 @@ declaration:
 #pragma once:
 	only include this file once
 	header guard
-	prevents problems double definitions of symbols e.g. functions
+	prevents problems double definitions of symbols
 	legacy version:
 		#ifndef _LOG_H
 		#define _LOG_H
@@ -28,6 +28,8 @@ declaration:
 
 # include <file> <- from include paths
 # include "file" <- from relative path (and from include paths)
+
+inline functions have to be used for functions defined in header files
 
 iostream without extension <- differentiate C and C++ standard library
 */
