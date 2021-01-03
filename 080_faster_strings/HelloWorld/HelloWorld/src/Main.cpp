@@ -46,7 +46,7 @@ int main()
 }
 
 /*
- * std::string always allocates on the heap -> overhead
+ * std::string always allocates on the heap (actually only most of the time) -> overhead
  * 
  * std::string_view doesn't allocate memory on the heap -> less overhead
  * it allows a substring of an already existing string to be accessed
