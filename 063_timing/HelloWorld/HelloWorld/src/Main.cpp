@@ -58,6 +58,6 @@ int main()
 
 /*
  * query performance timer on windows
- * thead sleeps are not very precise
+ * thread sleeps are not very precise
  * platform specific timer is a bit more precise
  */
