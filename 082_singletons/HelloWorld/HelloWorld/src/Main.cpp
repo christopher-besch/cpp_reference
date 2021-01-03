@@ -56,7 +56,7 @@ int main()
 }
 
 /*
- * singletons are a the instance of a class that is intended to only have one instance
+ * singletons are the instance of a class that is intended to only have one instance
  * singletons can just behave like a namespace
  * singletons are a way of structuring a set of global variables and / or static functions
  */
