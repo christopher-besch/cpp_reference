@@ -21,5 +21,5 @@ int main()
 }
 
 /*
- * small strings (in VS smaller than 16) don't need 
+ * small strings (in VS smaller than 16) don't get heap allocated 
  */
